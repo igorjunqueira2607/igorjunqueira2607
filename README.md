@@ -39,7 +39,7 @@
   <br />
   In September 2021, right after graduating from FGV, I applied and was selected for the Trybe Full-Stack development course. Since then, I have exponentially accumulated knowledge from basic Web Development fundamentals, through Front-End development, Back-End development (<strong>in progress</strong>), to an introduction to computer science.</p></i>
 
-  <h3>Linguagens e Ferramentas / Languages and Tools</h3>
+  <h3>Linguagens e Ferramentas / Languages and Tools:</h3>
   <div style="display: inline-block">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="center"           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -50,11 +50,11 @@
     </div>
     
 <div>
-    <h3>Contato</h3>
+    <h3>Contato / Contact:</h3>
     <a href="https://www.linkedin.com/in/igor-junqueira-91444921a/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <br />
   <br />
-  <p>📫 E-mail: igormelojunqueira@gmail.com</p>
+  <p>📫 <strong>E-mail:</strong> igormelojunqueira@gmail.com</p>
 </div>
     
 <p> 🗂️ Meu portfólio pessoal está disponivel em / My personal portfolio is available at: 
