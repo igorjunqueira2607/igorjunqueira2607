@@ -61,3 +61,5 @@
    <p>
      ⚡<strong> Bora codar! / Let's code!</strong>
     </p>
+    
+![Snake animation](https://github.com/igorjunqueira2607/igorjunqueira2607/blob/output/github-contribution-grid-snake.svg)
