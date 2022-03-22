@@ -60,7 +60,7 @@
     
 <h3>Contato / Contact: </h3>
     
-  <a href="https://www.linkedin.com/in/igor-junqueira-91444921a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igorjunqueira2607/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:igormelojunqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
 <p> 🗂️ Meu portfólio pessoal está disponivel em / My personal portfolio is available at: 
