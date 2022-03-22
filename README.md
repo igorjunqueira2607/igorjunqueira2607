@@ -1,15 +1,18 @@
 <h1 align="center"> Olá, sou o Igor Junqueira! / Hi, I'm Igor Junqueira! </h1>
-<h3 align="center"> Estudante de Desenvolvimento Full-Stack na Trybe. / Full-Stack Development Student at Trybe </h3>
+<h2 align="center"> Estudante de Desenvolvimento Full-Stack na Trybe. / Full-Stack Development Student at Trybe </h2>
 <br />
 
+<h3>Estatísticas / Stats</h3>
 <div align="center">
   <a href="https://github.com/igorjunqueira2607">
   <img height="180em" width="90%" src="https://github-readme-stats.vercel.app/api?username=igorjunqueira2607&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjunqueira2607&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   <br />
+  <hr  width="100%"/>
 
 <h3> Sobre mim / About 👨‍🎓🇧🇷</h3>
+  <br />
 <p> Meu nome é Igor Junqueira, tenho 23 anos e sou de São Paulo-SP, Brasil.
   <br />
   <br />
@@ -23,6 +26,8 @@
   <br />
   <br />
   Em setembro de 2021, logo após terminar a graduação na FGV, me inscrevi e fui selecionado para começar o curso de desenvolvimento Full-Stack da Trybe. Desde então, tenho acumulado conhecimento de maneira exponencial desde fundamentos básicos do Desenvolvimento Web, passando por desenvolvimento de Front-End, desenvolvimento de Back-End (<strong>em progresso</strong>), até chegar em uma introdução à ciência da computação.</p>
+  <br />
+  <br />
   
   <i>
   <p> My name is Igor Junqueira, I'm 23 years old and I'm from São Paulo-SP, Brazil.
@@ -38,9 +43,12 @@
   <br />
   <br />
   In September 2021, right after graduating from FGV, I applied and was selected for the Trybe Full-Stack development course. Since then, I have exponentially accumulated knowledge from basic Web Development fundamentals, through Front-End development, Back-End development (<strong>in progress</strong>), to an introduction to computer science.</p></i>
+  <hr  width="100%"/>
 
   <h3>Linguagens e Ferramentas / Languages and Tools:</h3>
-  <div style="display: inline-block">
+  <br />
+
+<div style="display: inline-block">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
     <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" align="center" height="30" width="40" />
 </a>
@@ -57,8 +65,10 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
     </div>
+    <hr  width="100%"/>
     
 <h3>Contato / Contact: </h3>
+    <br />
     
   <a href="https://www.linkedin.com/in/igorjunqueira2607/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:igormelojunqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
