@@ -1,22 +1,13 @@
 <h1 align="center"> Olá, sou o Igor Junqueira! / Hi, I'm Igor Junqueira! </h1>
-<h2 align="center"> Estudante de Desenvolvimento Full-Stack na Trybe. / Full-Stack Development Student at Trybe </h2>
+<h2 align="center"> Desenvolvedor Full-Stack Jr. / Junior Full-Stack Developer  </h2>
 <br />
-
-<h3>Estatísticas / Stats</h3>
-<div align="center">
-  <a href="https://github.com/igorjunqueira2607">
-  <img height="180em" width="90%" src="https://github-readme-stats.vercel.app/api?username=igorjunqueira2607&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjunqueira2607&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-  <br />
-  <hr  width="100%"/>
 
 <h3> Sobre mim / About 👨‍🎓🇧🇷</h3>
   <br />
 <p> Meu nome é Igor Junqueira, tenho 23 anos e sou de São Paulo-SP, Brasil.
   <br />
   <br />
-  Sou formado em Administração de Empresas pela FGV-EAESP e atualmente sou estudante de desenvolvimento Full-Stack na Trybe.
+  Sou formado em Administração de Empresas pela FGV-EAESP e no curso de Desenvolvimento de Software Full-Stack da Trybe.
   <br />
   <br />
   Desde criança sempre me interessei por tecnologia, porém em 2020, durante a Pandemia de COVID-19 pude perceber o quão importante a tecnologia é para o mundo.
@@ -25,7 +16,7 @@
   Percebi então que dentro dessa área existe uma enorme lacuna para crescer profissionalmente e atigir um nível de satisfação pessoal alto já que estaria lidando com algo que sempre me interessou.
   <br />
   <br />
-  Em setembro de 2021, logo após terminar a graduação na FGV, me inscrevi e fui selecionado para começar o curso de desenvolvimento Full-Stack da Trybe. Desde então, tenho acumulado conhecimento de maneira exponencial desde fundamentos básicos do Desenvolvimento Web, passando por desenvolvimento de Front-End, desenvolvimento de Back-End (<strong>em progresso</strong>), até chegar em uma introdução à ciência da computação.</p>
+  Em setembro de 2021, logo após terminar a graduação na FGV, me inscrevi e fui selecionado para começar o curso de desenvolvimento Full-Stack da Trybe. Desde então, tenho acumulado conhecimento de maneira exponencial desde fundamentos básicos do Desenvolvimento Web, passando por desenvolvimento de Front-End, desenvolvimento de Back-End, até chegar em uma introdução à ciência da computação.</p>
   <br />
   <br />
   
@@ -33,7 +24,7 @@
   <p> My name is Igor Junqueira, I'm 23 years old and I'm from São Paulo-SP, Brazil.
   <br />
   <br />
-  I have a degree in Business Administration from FGV-EAESP and I am currently a Full-Stack development student at Trybe.
+  I have a degree in Business Administration from FGV-EAESP and in Software Development Full-Stack Software Development at Trybe.
   <br />
   <br />
   Since I was a child, I have always been interested in technology, but in 2020, during the COVID-19 Pandemic, I realized how important technology is to the world.
@@ -42,7 +33,7 @@
   I realized then that within this area there is a huge gap to grow professionally and reach a high level of personal satisfaction since I would be dealing with something that always interested me.
   <br />
   <br />
-  In September 2021, right after graduating from FGV, I applied and was selected for the Trybe Full-Stack development course. Since then, I have exponentially accumulated knowledge from basic Web Development fundamentals, through Front-End development, Back-End development (<strong>in progress</strong>), to an introduction to computer science.</p></i>
+  In September 2021, right after graduating from FGV, I applied and was selected for the Trybe Full-Stack development course. Since then, I have exponentially accumulated knowledge from basic Web Development fundamentals, through Front-End development, Back-End development, to an introduction to computer science.</p></i>
   <hr  width="100%"/>
 
   <h3>Linguagens e Ferramentas / Languages and Tools:</h3>
@@ -64,8 +55,14 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="redux" width="40" height="40" align="center"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40" align="center"/> </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40" align="center"/> </a>
+    <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" align="center"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" align="center"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" align="center"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" align="center"/> </a>
     </div>
+    <br />
     <hr  width="100%"/>
     
 <h3>Contato / Contact: </h3>
@@ -78,5 +75,16 @@
    <p>
      ⚡<strong> Bora codar! / Let's code!</strong>
     </p>
+  <br />
+  <hr  width="100%"/>
+  
+  <h3>Estatísticas / Stats</h3>
+<div align="center">
+  <a href="https://github.com/igorjunqueira2607">
+  <img height="180em" width="90%" src="https://github-readme-stats.vercel.app/api?username=igorjunqueira2607&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjunqueira2607&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
+  <br />
+  <hr  width="100%"/>
     
 ![Snake animation](https://github.com/igorjunqueira2607/igorjunqueira2607/blob/output/github-contribution-grid-snake.svg)
